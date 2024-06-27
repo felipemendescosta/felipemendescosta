@@ -7,7 +7,8 @@
 }
 ```
 # título 1 
-## título 2 
+## Academico de licenciatura em informática pelo IFAP (Instituto Federal do Amapá), atuou como bolsista de iniciação cientifica por mais de 2 anos
+## a pesquisa desenvolvida nesse período foi focado em analise de dados e Inteligência Artificial (IA) 
 ### título 3 
 #### título 4 
 ##### título 5 
