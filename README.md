@@ -1,9 +1,9 @@
 ```
 { 
-"nome": Felipe Mendes",
+"nome": "Felipe Mendes",
 "idade": 25,
 "cidade": "Amapá",
-"email": felipemendesdev0@gmail.com
+"email": "felipemendesdev0@gmail.com"
 }
 ```
 # Experiências acadêmicas
