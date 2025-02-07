@@ -21,9 +21,13 @@ Tenho familiaridade com as seguintes tecnologias:
 <img src= "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)"/>
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
- 
-</p> 
-
+</p>
+<br>
+<p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default" alt="card">
+</a>
+</p>
 
 <!--
 **felipemendescosta/felipemendescosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
