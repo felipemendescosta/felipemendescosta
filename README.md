@@ -27,6 +27,10 @@ Tenho familiaridade com as seguintes tecnologias:
 <a href="https://github.com/felipemendescosta/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=felipemendescosta&theme=default" alt="card">
 </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemendescosta&hide=html&layout=compact&theme=default" alt="iuricode">
+</a>
+
 </p>
 
 <!--
