@@ -25,7 +25,7 @@ Tenho familiaridade com as seguintes tecnologias:
 <br>
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default" alt="card">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipemendescosta&theme=default" alt="card">
 </a>
 </p>
 
